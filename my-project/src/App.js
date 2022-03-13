@@ -14,9 +14,9 @@ function App() {
       {/* <Message messageContent="This is message content" /> */}
       {/* <Profile name="Muhammad" lastname="Eakub" /> */}
       {/* <Resume name="Muhammad Eakub" /> */}
-      {/* <Counter></Counter> */}
+      <Counter></Counter>
       {/* <FunctionEvent /> */}
-      <ClassEvent />
+      {/* <ClassEvent /> */}
     </div>
   );
 }
